@@ -1,6 +1,9 @@
 # Sobre o Cascading Lifestyle
 
-O Cascading Lifestyle é mais do que apenas uma empresa de desenvolvimento de software - é o sonho de dois desenvolvedores que veem a programação como um estilo de vida. Nosso modo de vida é fluido, assim como uma cascata, e é por isso que escolhemos esse nome.
+
+O Cascading Lifestyle vai além de ser apenas uma empresa de desenvolvimento de software - ele é o reflexo do sonho de dois desenvolvedores que enxergam a programação como mais do que uma simples profissão.
+Para nós, programar é um estilo de vida, uma paixão que transcende as barreiras do trabalho e se integra ao nosso dia a dia de forma natural.
+Nosso modo de vida é fluido, assim como uma cascata, fluindo suavemente através das diferentes facetas da tecnologia, da inovação e da criatividade. É essa fluidez que nos permite adaptar-nos às mudanças constantes do mercado, mergulhar em novos desafios e encontrar soluções criativas para os problemas mais complexos.
 
 ## Nossa Missão
 
