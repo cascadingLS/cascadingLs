@@ -1,4 +1,4 @@
-# Sobre o Cascading Lifestyle
+# Sobre a Cascading Lifestyle
 
 
 O Cascading Lifestyle vai além de ser apenas uma empresa de desenvolvimento de software - ele é o reflexo do sonho de dois desenvolvedores que enxergam a programação como mais do que uma simples profissão.
