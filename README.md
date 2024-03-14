@@ -10,17 +10,17 @@ Nosso objetivo é oferecer soluções de desenvolvimento de software de alta qua
 
 No Cascading Lifestyle, oferecemos serviços de front-end e back-end utilizando uma variedade de tecnologias modernas, incluindo:
 
-- React ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-- Angular ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
-- Next.js ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
-- HTML ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-- Node.js ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React">
+- Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular">
+- Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js">
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML">
+- Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
 
 E outros frameworks e tecnologias sob demanda.
 
 ## Por que Escolher o Cascading Lifestyle?
 
-- Experiência e Expertise: Nossa equipe possui anos de experiência e expertise em desenvolvimento de software, garantindo resultados de alta qualidade.
+- Experiência e Expertise: possuímos experiência e expertise em desenvolvimento de software, garantindo resultados de alta qualidade.
 - Abordagem Personalizada: Entendemos que cada projeto é único. Por isso, trabalhamos em estreita colaboração com nossos clientes para oferecer soluções personalizadas que atendam às suas necessidades específicas.
 - Compromisso com a Excelência: Estamos comprometidos em entregar produtos de software de classe mundial que impulsionem o sucesso de nossos clientes.
 
